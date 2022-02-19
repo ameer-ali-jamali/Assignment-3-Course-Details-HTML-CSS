@@ -1,0 +1,41 @@
+    #head {
+        background-color: darkorange;
+        color: black;
+        text-align: center;
+        font-size: xx-large;
+        border: solid;
+        margin-top: 0%;
+        border-width: 10px;
+        font-size: 40px;
+    }
+    
+    h1 {
+        background-color: darkblue;
+        color: white;
+        border-width: 10px;
+    }
+    
+    #font-design {
+        border-style: solid;
+        border-width: 1ch;
+    }
+    
+    .image-fit {
+        /* fit image on background */
+        object-fit: cover;
+        width: 100%;
+    }
+    
+    hr {
+        /* new line */
+        color: black;
+        background-color: black;
+        height: 20px;
+        border: none;
+        max-width: 100%;
+    }
+    
+    a {
+        /* remove underline */
+        text-decoration: none;
+    }
